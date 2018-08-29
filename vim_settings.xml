@@ -6,6 +6,7 @@
       <file name="/Dummy.txt" timestamp="1534364396858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/RotoProsWeb-master/src/app/front/components/home/front-home.component.ts" timestamp="1535573283312" />
     </filemarks>
     <jumps />
     <registers />
@@ -13,7 +14,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
