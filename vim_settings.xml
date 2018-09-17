@@ -9,12 +9,32 @@
       <file name="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/SuccessAlert/SuccessAlert.component.html" timestamp="1537221473732">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/app.component.css" timestamp="1537222344298">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/SuccessAlert/SuccessAlert.component.ts" timestamp="1537221463419" />
+      <file name="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/app.component.html" timestamp="1537222703526">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/success-alert/success-alert.component.css" timestamp="1537222306138">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/SuccessAlert/SuccessAlert.component.html" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
