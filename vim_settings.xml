@@ -6,9 +6,14 @@
       <file name="/Dummy.txt" timestamp="1534364396858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/RotoProsWeb-master/src/app/front/components/home/front-home.component.ts" timestamp="1535573283312" />
+      <file name="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/SuccessAlert/SuccessAlert.component.html" timestamp="1537221473732">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/SuccessAlert/SuccessAlert.component.ts" timestamp="1537221463419" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/basics-assignment-1-start/src/app/SuccessAlert/SuccessAlert.component.html" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
